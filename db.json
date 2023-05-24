@@ -1,0 +1,314 @@
+{
+  "user": [
+    {
+      "id": "prasad",
+      "name": "korla",
+      "password": "1234",
+      "email": "prasad@gmail.com",
+      "phone": "7036248736",
+      "country": "",
+      "address": "ghffjfjkgkgk",
+      "gender": "male"
+    },
+    {
+      "id": "Renuka",
+      "name": "vbdvbsdb",
+      "password": "9966",
+      "email": "bubiub",
+      "phone": "hbbjb",
+      "country": "",
+      "address": "buinhkn",
+      "gender": "female"
+    }
+  ],
+  "addproducts": [
+    {
+      "title": "Airdopes 141",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airdopes_141.jpg",
+      "rating": "4.8",
+      "regprc": "4,490.00",
+      "saleprc": "1,299.00",
+      "model": "Wireless_buds",
+      "percentage": "71",
+      "id": 1
+    },
+    {
+      "title": "Airdopes 131",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_131.jpg",
+      "rating": "4.8",
+      "regprc": "2,990.00",
+      "saleprc": "999.00",
+      "model": "Wireless_buds",
+      "percentage": "67",
+      "id": 1
+    },
+    {
+      "title": "Airdopes 131",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_161.jpg",
+      "rating": "4.9",
+      "regprc": "2490",
+      "saleprc": "1099",
+      "model": "Wireless_buds",
+      "percentage": "56",
+      "id": 1
+    },
+    {
+      "title": "Airdopes131 pro",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_131_Pro.jpg",
+      "rating": "4.9",
+      "regprc": "2990",
+      "saleprc": "1299",
+      "model": "Wireless_buds",
+      "percentage": "57",
+      "id": 1
+    },
+    {
+      "title": "AirpodeAtom81",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_Atom_81.jpg",
+      "rating": "4.9",
+      "regprc": "3490",
+      "saleprc": "1499",
+      "model": "Wireless_buds",
+      "percentage": "57",
+      "id": 1
+    },
+    {
+      "title": "Airpodes 148",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_148.jpg",
+      "rating": "5.0",
+      "regprc": "4490",
+      "saleprc": "1499",
+      "model": "Wireless_buds",
+      "percentage": "67",
+      "id": 1
+    },
+    {
+      "title": "Airdopes 191G",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airdopes_191G.jpg",
+      "rating": "5.0",
+      "regprc": "3490",
+      "saleprc": "1799",
+      "model": "Wireless_buds",
+      "percentage": "48",
+      "id": 1
+    },
+    {
+      "title": "Airpodes 192",
+      "imgsrc": "../Images/Wireless_buds_imgs/Airpodes_192.jpg",
+      "rating": "5.0",
+      "regprc": "3490",
+      "saleprc": "1999",
+      "model": "Wireless_buds",
+      "percentage": "43",
+      "id": 1
+    },
+    {
+      "title": "TRebel Rockerz 235 V2",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/TRebel_Rockerz235V2.jpg",
+      "rating": "4.8",
+      "regprc": "2990",
+      "saleprc": "1199",
+      "model": "Rockerz_Wireless",
+      "percentage": "60",
+      "id": 1
+    },
+    {
+      "title": "Trebel Rockerz 255 Pro+",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Trebel_Rockerz 255 Pro+.jpg",
+      "rating": "4.7",
+      "regprc": "3990",
+      "saleprc": "1599",
+      "model": "Rockerz_Wireless",
+      "percentage": "60",
+      "id": 2
+    },
+    {
+      "title": "Rockerz _103_Pro",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Rockerz _103_Pro.jpg",
+      "rating": "4.8",
+      "regprc": "2490",
+      "saleprc": "1199",
+      "model": "Rockerz_Wireless",
+      "percentage": "52",
+      "id": 3
+    },
+    {
+      "title": "Rockerz 255 Pro+",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Rockerz255Pro+.jpg",
+      "rating": "4.8",
+      "regprc": "3990",
+      "saleprc": "1098",
+      "model": "Rockerz_Wireless",
+      "percentage": "72",
+      "id": 4
+    },
+    {
+      "title": "Rockerz 260",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Rockerz260.jpg",
+      "rating": "4.9",
+      "regprc": "2499",
+      "saleprc": "1299",
+      "model": "Rockerz_Wireless",
+      "percentage": "48",
+      "id": 5
+    },
+    {
+      "title": "Rockerz 410",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Rockerz410.jpg",
+      "rating": "4.9",
+      "regprc": "2990",
+      "saleprc": "1599",
+      "model": "Rockerz_Wireless",
+      "percentage": "47",
+      "id": 6
+    },
+    {
+      "title": "Rockerz 335",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/Rockerz335.jpg",
+      "rating": "4.8",
+      "regprc": "3990",
+      "saleprc": "1599",
+      "model": "Rockerz_Wireless",
+      "percentage": "47",
+      "id": 7
+    },
+    {
+      "title": "boAtRockerz255",
+      "imgsrc": "../Images/Rockerz_wireless_imgs/boAtRockerz255R.jpg",
+      "rating": "4.9",
+      "regprc": "2990",
+      "saleprc": "1299",
+      "model": "Rockerz_Wireless",
+      "percentage": "57",
+      "id": 8
+    },
+    {
+      "title": "BassHeads 103",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_103.jpg",
+      "rating": "4.8",
+      "regprc": "1290",
+      "saleprc": "499.0",
+      "model": "Wired_Earphones",
+      "percentage": "61",
+      "id": 1
+    },
+    {
+      "title": "BassHeads 122",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_122.jpg",
+      "rating": "4.9",
+      "regprc": "1290",
+      "saleprc": "499.0",
+      "model": "Wired_Earphones",
+      "percentage": "61",
+      "id": 2
+    },
+    {
+      "title": "Bassheads 900",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_900.jpg",
+      "rating": "4.8",
+      "regprc": "843",
+      "saleprc": "2490",
+      "model": "Wired_Earphones",
+      "percentage": "61",
+      "id": 3
+    },
+    {
+      "title": "BassHeads 110",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_1101.jpg",
+      "rating": "5.0",
+      "regprc": "999",
+      "saleprc": "449",
+      "model": "Wired_Earphones",
+      "percentage": "55",
+      "id": 4
+    },
+    {
+      "title": "BassHeads 102",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_102.jpg",
+      "rating": "4.8",
+      "regprc": "1296",
+      "saleprc": "449",
+      "model": "Wired_Earphones",
+      "percentage": "61",
+      "id": 5
+    },
+    {
+      "title": " BassHeads 242",
+      "imgsrc": "../Images/Wired_Earphones_imgs/TRebel_BassHeads242.jpg",
+      "rating": "4.8",
+      "regprc": "1490",
+      "saleprc": "599",
+      "model": "Wired_Earphones",
+      "percentage": "60",
+      "id": 6
+    },
+    {
+      "title": " BassHeads 100",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads_100.jpg",
+      "rating": "4.8",
+      "regprc": "999",
+      "saleprc": "499",
+      "model": "Wired_Earphones",
+      "percentage": "60",
+      "id": 7
+    },
+    {
+      "title": " BassHeads 105",
+      "imgsrc": "../Images/Wired_Earphones_imgs/BassHeads _105.jpg",
+      "rating": "4.9",
+      "regprc": "999",
+      "saleprc": "499",
+      "model": "Wired_Earphones",
+      "percentage": "55",
+      "id": 8
+    },
+    {
+      "title": "hrdhvh",
+      "imgsrc": "destgf",
+      "rating": "fhfhb",
+      "regprc": "fhbfh",
+      "saleprc": "fbhfh",
+      "model": "Smart_Watches",
+      "percentage": "gdge",
+      "id": 9
+    },
+    {
+      "title": "dvcb ",
+      "imgsrc": "csfe",
+      "rating": "c vgmn",
+      "regprc": "dbdsn b",
+      "saleprc": "vx xc v  v",
+      "model": "Smart_Watches",
+      "percentage": " x ",
+      "id": 10
+    },
+    {
+      "title": "tgch",
+      "imgsrc": "crtfcv ",
+      "rating": "ytdgc b",
+      "regprc": "tgcb ",
+      "saleprc": "5tfgvb",
+      "model": "Home_Theatre_Systems_Soundbars",
+      "percentage": "vb ",
+      "id": 11
+    }
+  ],
+  "contact": [
+    {
+      "Username": null,
+      "name": "renuka",
+      "mail": "renu@gmail.com",
+      "number": "123456789",
+      "message": "zxcfdaadefh",
+      "id": 1
+    },
+    {
+      "Username": "Renuka",
+      "name": "renuka",
+      "mail": "krenukarenuka03@gmail.com",
+      "number": "1234567890",
+      "message": "hybyuavga",
+      "id": 2
+    }
+  ]
+}
